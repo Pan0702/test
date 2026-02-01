@@ -1,11 +1,4 @@
-﻿# intern2025summer - 16のC++レッスン（DirectX初心者向け）
 
-この教材は、DirectXを触り始めた人が **「C++部分を読める・直せる」** ようになるための基礎セットです。  
-各レッスンは **単体で実行できるコンソールアプリ** になっています。
-
-- ルートの `project.sln` を開くと Lesson1〜Lesson16 がまとめて開きます
-- コード（.cpp/.h）は **Shift-JIS（CP932）**
-- README は Visual Studio で読みやすいよう **UTF-8（BOM付き）**
 
 ---
 
